@@ -133,7 +133,7 @@ class HorseTest {
             horse.move();
         }
 
-//Assert
+        //Assert
         assertEquals(expectedDistance, horse.getDistance());
 
     }
